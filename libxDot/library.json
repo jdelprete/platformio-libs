@@ -1,0 +1,19 @@
+{
+    "name": "libxDot",
+    "keywords": "xDot, mbed, lora, radio",
+    "description": "mBed 5 library for the xDot radio",
+    "authors":
+    {
+        "name": "MultiTech",
+        "email": "support@multitech.com",
+        "url": "https://developer.mbed.org/teams/MultiTech/"
+    },
+    "repository":
+    {
+        "type": "hg",
+        "url": "https://developer.mbed.org/teams/MultiTech/code/libxDot-mbed5/"
+    },
+    "frameworks": "mbed",
+    "platforms": "ststm32",
+    "boards": "xdot_l151cc"
+}
